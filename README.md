@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Bruna Vitória 👋
 
-- 🔭 No momento,  sou estudante front-end...
-- 🌱 Estou aprendendo TypeScript...
+- 🔭 No momento,  sou estudante full-stack onde até agora aprende HTML, CSS, JavaScript, APIS, React, Styled-Components...
+- 🌱 Estou aprendendo TypeScript.
 
 <div align="center">
   <a href="https://github.com/BrunaVitoriaDEV">
