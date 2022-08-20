@@ -1,8 +1,8 @@
 <div>
 ### Olá! Eu sou a Bruna Vitória 👋
 
-- 🔭 No momento,  sou estudante full-stack onde até agora aprende HTML, CSS, JavaScript, APIS, React, Styled-Components...
-- 🌱 Estou aprendendo TypeScript.
+- 🔭 No momento,  sou estudante full-stack onde até agora aprende HTML, CSS, JavaScript, APIS, React, Styled-Components, Typescript...
+- 🌱 Estou aprendendo MySQL.
 
 <div align="center">
   <a href="https://github.com/BrunaVitoriaDEV">
